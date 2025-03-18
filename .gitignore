@@ -3,5 +3,4 @@
 *.xd
 .DS_Store
 .prettierignore
-# temporary
-*.md 
+style-guide.md
