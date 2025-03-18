@@ -1,4 +1,4 @@
-Deployed at ![Github Pages](https://altynbaeva.github.io/qr-code-component/)
+Deployed at [Github Pages](https://altynbaeva.github.io/qr-code-component/)
 
 # Frontend Mentor - QR code component solution
 
